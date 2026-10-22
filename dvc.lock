@@ -27,8 +27,8 @@ stages:
       nfiles: 2
     - path: src/train.py
       hash: md5
-      md5: f3739d6f02967ea593e67320c6f9a637
-      size: 618
+      md5: 924070abd674706fe7dc9f7ee13821ff
+      size: 617
     outs:
     - path: metrics.json
       hash: md5
@@ -36,5 +36,5 @@ stages:
       size: 23
     - path: models/model.pkl
       hash: md5
-      md5: 4343b4d8106dd65cac5101362109ca78
-      size: 102276
+      md5: be0d9cd94848a95030bb49f8c3d5554c
+      size: 50116
