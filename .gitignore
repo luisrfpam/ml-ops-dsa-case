@@ -1,0 +1,6 @@
+/metrics.json
+
+# Local Python virtual environments (each developer creates their own)
+/.venv/
+/venv/
+/mlops-dsa-case/
